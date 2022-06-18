@@ -1,0 +1,28 @@
+{
+  "entries": [{
+    "key": "EA_CHOCOCRAFT",
+    "name": "research.ea_chococraft.title",
+    "icons": [
+      "thaumcraft:textures/items/mechanism_simple.png"
+    ],
+    "category": "EXPANDEDARCANUM",
+    "location": [X, X],
+    "meta": ["ROUND"],
+    "parents": ["EA_ALCHEMY"],
+    "stages": [{
+      "text": "research.ea_chococraft.desc.1",
+        "required_knowledge": ["OBSERVATION;EXPANDEDARCANUM;2","THEORY;ALCHEMY;4"],
+        "required_research": ["!sensus;!victus;!auram;!herba;!bestia;EA_ALCHEMY"],
+        "required_craft": ["minecraft:noteblock"]
+      },
+        {
+          "text": "research.ea_chococraft.desc.2",
+          "recipes": ["chococraft:spike_fruit","chococraft:aeroshroom","chococraft:aqua_berry","chococraft:dead_pepper"]
+        }
+      ]
+    },
+    }]
+  },
+    
+  ]
+}
