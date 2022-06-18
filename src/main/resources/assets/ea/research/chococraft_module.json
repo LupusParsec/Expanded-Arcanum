@@ -7,7 +7,7 @@
     ],
     "category": "EXPANDEDARCANUM",
     "location": [5, 2],
-    "meta": [""],
+    "meta": ["ROUND"],
     "parents": ["EA_ALCHEMY"],
     "stages": [{
       "text": "research.ea_chococraft.desc.1",
