@@ -3,7 +3,7 @@
     "key": "EA_CHOCOCRAFT",
     "name": "research.ea_chococraft.title",
     "icons": [
-      "thaumcraft:textures/items/mechanism_simple.png"
+      "chococraft:textures/items/test.png"
     ],
     "category": "EXPANDEDARCANUM",
     "location": [5, 2],
