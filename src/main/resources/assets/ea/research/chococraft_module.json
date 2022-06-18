@@ -6,7 +6,7 @@
       "thaumcraft:textures/items/mechanism_simple.png"
     ],
     "category": "EXPANDEDARCANUM",
-    "location": [X, X],
+    "location": [5, 2],
     "meta": ["ROUND"],
     "parents": ["EA_ALCHEMY"],
     "stages": [{
