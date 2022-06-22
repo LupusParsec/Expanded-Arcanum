@@ -11,7 +11,7 @@
     "parents": ["EA_ALCHEMY"],
     "stages": [{
       "text": "research.ea_chococraft.desc.1",
-        "required_knowledge": ["OBSERVATION;BASICS;2","OBSERVATION;EXPANDEDARCANUM;2","THEORY;ALCHEMY;4","THEORY;EXPANDEDARCANUM;4"],
+        "required_knowledge": ["OBSERVATION;BASICS;2", "OBSERVATION;EXPANDEDARCANUM;2", "THEORY;ALCHEMY;4", "THEORY;EXPANDEDARCANUM;4"],
         "required_research": ["!sensus;!victus;!auram;!herba;!bestia;EA_ALCHEMY"],
         "required_craft": ["minecraft:diamond_hoe"]
       },
